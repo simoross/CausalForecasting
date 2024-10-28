@@ -1,6 +1,6 @@
 # Nome repo - " se si vuole si può mettere qualcosa come in tigramite"
 ## Overview
-Nome repo contains five method (Causal Discovery with ParCorr and CMIkNN, ANN, RNN, Polynomial Features and Random Forest) implementation for inference and forecasting.
+Nome repo contains five different method implementations (Causal Discovery with ParCorr and CMIkNN, ANN, RNN, Polynomial Features and Random Forest) for inference and forecasting.
 ## Required python package
 - python = 3.10
 - pandas = 2.2.2
