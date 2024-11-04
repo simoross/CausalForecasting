@@ -1,6 +1,6 @@
-# Nome repo - " se si vuole si può mettere qualcosa come in tigramite"
+# Causal Forecasting
 ## Overview
-Nome repo contains five different method implementations (Causal Discovery with ParCorr and CMIkNN, ANN, RNN, Polynomial Features and Random Forest) for inference and forecasting.
+Causal forecasting contains five different method implementations (Causal Discovery with ParCorr and CMIkNN, ANN, RNN, Polynomial Features and Random Forest) for inference and forecasting based on the Citylearn Challenge.
 ## Required python package
 - python = 3.10
 - pandas = 2.2.2
